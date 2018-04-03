@@ -25,6 +25,8 @@ Simply git clone or download and unzip CryptoFever folder
 
 ## Setup
 
+Installation and execution both require superuser privileges
+
 ### Linux
 
 Automatic setup on first run
@@ -123,7 +125,7 @@ Miner generated with cryptofever include a 5% dev-donation.
 In order to use custom javascript miner move the .js file inside CryptoFever/js-miner folder and then select it on cryptofever.  
 
 
-##Pre-release
+## Pre-release
 
 for any issue or question: oddcod3@gmail.com 
 
